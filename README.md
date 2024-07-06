@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about Cybersecurity. Here you can find some of my personal and professional projects.
 
 ## 🚀 Tech Stack:
-![My Stack](https://skillicons.dev/icons?i=js,py,linux,vim,regex,redhat,raspberrypi,powershell,debian,bash,md,kali)
+![My Stack](https://skillicons.dev/icons?i=js,py,linux,vim,regex,redhat,powershell,bash,md,kali)
 ## 📊 GitHub Stats:
 <table>
 	<tr>
