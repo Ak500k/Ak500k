@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ak500
+# Hi there 👋, I'm Ak
 
 Welcome to my GitHub profile! I'm passionate about Cybersecurity. Here you can find some of my personal and professional projects.
 
